@@ -6,3 +6,5 @@ tuvieja
 {"type":"start","session_id":"9ff18c14-0d9a-488d-b0aa-1daa20c02099","date":"2015-08-12T20:44:33.734Z"}
 {"type":"start","session_id":"c82deab5-4404-45d2-a84a-c5b11a6398e4","date":"2015-08-12T20:56:13.441Z"}
 {"type":"move","class":"com.epidata.sfcb.ws.factory.FactoryLinkRESTServiceImpl","from":"#EFDE6C","to":"#14EF15","date":"2015-08-12T20:56:34.918Z"}
+{"type":"start","session_id":"6759f1c0-1ddd-440e-9e24-32206848e295","date":"2015-08-12T21:01:57.744Z"}
+{"type":"new-cluster","name":"#clustercito","date":"2015-08-12T21:02:07.030Z"}
