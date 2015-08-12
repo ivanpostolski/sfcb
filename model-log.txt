@@ -4,3 +4,5 @@ tuvieja
 "INFO,Logging started,680f60a9-ccd5-4d15-abcd-bd145df686b0,Wed Aug 12 2015 16:00:53 GMT-0300 (ART)"
 {"type":"move","class":"com.epidata.sfcb.ws.factory.ContactRESTServiceImpl","from":"#EFDE6C","to":"#14EF15","date":"2015-08-12T19:01:24.400Z"}
 {"type":"start","session_id":"9ff18c14-0d9a-488d-b0aa-1daa20c02099","date":"2015-08-12T20:44:33.734Z"}
+{"type":"start","session_id":"c82deab5-4404-45d2-a84a-c5b11a6398e4","date":"2015-08-12T20:56:13.441Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.factory.FactoryLinkRESTServiceImpl","from":"#EFDE6C","to":"#14EF15","date":"2015-08-12T20:56:34.918Z"}
