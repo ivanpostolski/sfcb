@@ -8,3 +8,9 @@ tuvieja
 {"type":"move","class":"com.epidata.sfcb.ws.factory.FactoryLinkRESTServiceImpl","from":"#EFDE6C","to":"#14EF15","date":"2015-08-12T20:56:34.918Z"}
 {"type":"start","session_id":"6759f1c0-1ddd-440e-9e24-32206848e295","date":"2015-08-12T21:01:57.744Z"}
 {"type":"new-cluster","name":"#clustercito","date":"2015-08-12T21:02:07.030Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.factory.ContactRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:06.358Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.monitor.UserDashboardRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:15.881Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.monitor.PanelRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:17.863Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.monitor.DashboardRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:19.570Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.project.MemberRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:24.610Z"}
+{"type":"move","class":"com.epidata.sfcb.ws.factory.FactoryLinkRESTServiceImpl","from":"#EFDE6C","to":"#clustercito","date":"2015-08-12T21:04:26.901Z"}
